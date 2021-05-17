@@ -1,5 +1,6 @@
 # README
 ## Beschreibeung
+Excel ist ein weitverbreitets Programm, um Daten in Tabellen zu bearbeiten und benötigt eigentlich keine weitere Vorstellung. Für viele Tätigkeiten ist Excel ausreichend, um Daten zu erfassen, sortieren und zu filtern. Schwieriger wird es, wenn wiederholt Daten aus vielen Quellen-Tabellen zu einer Tabelle zusammengefasst werden soll und/oder große Datensätze verarbeitet werden soll. Hier stößt Excel schnell an seine Grenzen. Um eine nachvollziehbare Wiederverwendung zu gewährleisten benötigt es ein anderes Werkzeug, hier ist Python eine beliebte und weit verbreitete Programmiersprache, die es erlaubt große Datensätze zu analysieren, zu manipulieren und vieles mehr.      
 
 ## Python
 
